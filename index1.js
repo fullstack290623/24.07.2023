@@ -15,7 +15,7 @@ the_div = a / b;
 
 document.write("<h3>Hello JS! </h3>");
 document.write("a + b = ", sum)
-document.write("<br />a - b = ", diff)
-document.write("<br />a * b = ", mul)
-document.write("<br />a / b = ", the_div)
+document.write("<br /> a - b = ", diff)
+document.write("<br /> a * b = ", mul)
+document.write("<br /> a / b = ", the_div)
 // add the results here
